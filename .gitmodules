@@ -1,0 +1,3 @@
+[submodule "roles/opencv-python"]
+	path = roles/opencv-python
+	url = https://github.com/robrant/ansible-role-pi-opencv.git
