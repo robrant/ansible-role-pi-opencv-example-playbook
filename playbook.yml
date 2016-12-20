@@ -2,3 +2,5 @@
   roles:
     - opencv-python
   tags: opencv-python
+  become: true
+  gather_facts: true
